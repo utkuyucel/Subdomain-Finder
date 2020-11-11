@@ -48,7 +48,7 @@ class SubFinder:
 			self._out()
 
 
-		print("Finished. Subdomains are:")
+		print("\nFinished. Subdomains are:")
 		for sub in self.subdomain_list:
 			print(sub)
 
