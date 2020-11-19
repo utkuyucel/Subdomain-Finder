@@ -22,6 +22,7 @@ dev
 www2
 admin
 forum
+login
 news
 vpn
 ns3
